@@ -573,6 +573,7 @@ div.jeffButton:hover{
     cursor: pointer;
     color: #ff4b4b;
     border-color: #ff4b4b;
+    z-index: 100;
 }
 .logoFarbeGross{
     position: relative;
