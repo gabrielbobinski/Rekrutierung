@@ -681,5 +681,7 @@ div.jeffButton:hover{
         margin: auto;
         margin-top: -27.25vh;
     }
-    
+    .downIcon{
+        top: 40vh;
+    }
 }
