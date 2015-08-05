@@ -684,4 +684,8 @@ div.jeffButton:hover{
     .downIcon{
         top: 55vh;
     }
+    .buttonJetzt{
+        width: 250px;
+        font-size: 18px;
+    }
 }
