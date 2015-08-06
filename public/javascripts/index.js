@@ -60,7 +60,7 @@ function diensteAnsicht(DienstId) {
 
 
 function fadeIn(){
-    $('#div_1').animate({opacity:"1"}, 4000, 'linear',
+    $('#div_1').animate({opacity:"1"}, 500, 'linear',
                          function(){
                          //document.getElementById('sB_'+id).style.opacity="0";
                          });
