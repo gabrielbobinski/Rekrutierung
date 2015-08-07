@@ -630,7 +630,7 @@ div.jeffButton:hover{
 }
 .zentralerText{
     padding: 2vh;
-    font-size: 18px;
+    font-size: 20px;
     color: rgba(0,0,0,0.8);
     text-align: center;
 }
@@ -698,5 +698,6 @@ div.jeffButton:hover{
     }
     .zentralerText{
         padding: 5vh;
+        font-size: 18px;
     }
 }
