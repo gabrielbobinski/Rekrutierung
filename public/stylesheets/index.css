@@ -628,7 +628,12 @@ div.jeffButton:hover{
     background-position: center;
     background-repeat: no-repeat:
 }
-
+.zentralerText{
+    padding: 2vh;
+    font-size: 18px;
+    color: rgba(0,0,0,0.8);
+    text-align: center;
+}
 
 
 @media (min-width: 1800px) {
@@ -690,5 +695,8 @@ div.jeffButton:hover{
     .buttonJetzt{
         width: 250px;
         font-size: 18px;
+    }
+    .zentralerText{
+        padding: 5vh;
     }
 }
